@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://swust.top</id>
+    <title>Desola</title>
+    <updated>2024-06-19T03:03:54.694Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://swust.top"/>
+    <link rel="self" href="http://swust.top/atom.xml"/>
+    <subtitle>万事如意</subtitle>
+    <logo>http://swust.top/images/avatar.png</logo>
+    <icon>http://swust.top/favicon.ico</icon>
+    <rights>All rights reserved 2024, Desola</rights>
+    <entry>
+        <title type="html"><![CDATA[校园风景一览]]></title>
+        <id>http://swust.top/post/xiao-yuan-feng-jing-yi-lan/</id>
+        <link href="http://swust.top/post/xiao-yuan-feng-jing-yi-lan/">
+        </link>
+        <updated>2024-06-18T02:50:40.000Z</updated>
+        <content type="html"><![CDATA[<p>暂无</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校园生活常见问题汇总]]></title>
+        <id>http://swust.top/post/xiao-yuan-sheng-huo-chang-jian-wen-ti-hui-zong/</id>
+        <link href="http://swust.top/post/xiao-yuan-sheng-huo-chang-jian-wen-ti-hui-zong/">
+        </link>
+        <updated>2024-06-16T16:05:41.000Z</updated>
+        <content type="html"><![CDATA[<p>👉一卡通补办：老区龙山商业街二楼（蜜雪冰城楼上），新区图书馆一楼，时间9-12点，14.30-17。新区图书馆一楼，卡里有20块钱就行，卡里钱不够直接扣成负的。不用带证件，只能补办自己的，不能代人补办。<br>
+👉学生证补办：东五行政楼2楼学生事务中心，带上身份证、一卡通、一寸照片（不限底色）、和辅导员盖章的补办证明或在读证明（二选一）。<br>
+👉在读证明：图书馆自助打印机打印。<br>
+👉成绩单打印处：图书馆自助打印机，各学院教学办，学校教学办（东五行政楼3楼），东八A座107就业中心办公室，东八C座2楼信推办办公室。<br>
+👉西科印务：各种实验报告，学校论文袋，形势与政策专用答题纸等，位置在老区小北门出去直走到岔路口。小北门也是西二门。<br>
+👉高数卷子售卖处；107一号教学楼教师休息处旁边那个教室里面，练习卷。<br>
+👉大物实验报告：东三教学楼三楼管理员处。<br>
+👉乘车优惠磁条：东五行政楼二楼学生事务中心。<br>
+👉电话卡运营商门店：在龙山商业街二楼。<br>
+👉关于学位课绩点，根据教务处最新政策，现在只需要毕业的时候你的学位课绩点平均2.0以上就能有学位证。<br>
+👉学生常用表格下载：学校官网——机构设置——教学科研部门——法学院——下载中心——学生常用表格<br>
+👉保研文件——官网首页，最下方专题网站——推免工作专栏。<br>
+👉转专业：每年四月份开始，建议有这个计划的同学早日去各学院官网看自己想去的学院的往年的转专业细则进行参考，这个每年变化幅度不大。<br>
+👉裁缝：老区小北门出去走到西科印务旁边就是，新区，欣悦宾馆一楼。<br>
+👉手表维修：新区大铁门外，27路公交站旁边有个流动摊位，不知道开业时间。老区，清芬苑外面有时有个摊位。<br>
+👉配钥匙：老区小吃街入口处，新区，小铁门出来，沿着靠西科大这个街走到一个有路牌的地方，那边旁边仔细看有个小铺面。可以配电动车钥匙。<br>
+👉科任老师联系方式，找辅导员就行，他们的钉钉系统能查到所有老师的电话<br>
+👉关于学校各种账号，网课账号学校教务处专门有负责老师，有问题建议线下去咨询，其他账号如校园网，一站式等，统统找东八教学楼C座二楼信推办，那边管理学校账号<br>
+👉租正装，新区易虎正装，360超市过来三个店铺，老区金龙正装，大北门出去一直走<br>
+👉身份证补办，高水行政中心或涪城区派出所，带上一卡通，学生证，驾照，户口本什么的都行。临时身份证只能在户籍地补办<br>
+👉各食堂<br>
+一食堂：清芬苑<br>
+二食堂：龙山苑<br>
+三食堂（已倒闭，消失在历史长河中）<br>
+四食堂：梧桐苑<br>
+五食堂：科大苑<br>
+六食堂：龙溪苑<br>
+七食堂：五洲苑<br>
+👉图书馆刷脸用不了，重新采集信息就行，密码初始是身份证后六位(遇到X往前走一位)，图书馆的人脸识别直接扫机器上的二维码按提示上传即可</p>
+]]></content>
+    </entry>
+</feed>
